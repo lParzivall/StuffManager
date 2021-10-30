@@ -1,0 +1,11 @@
+
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(Â¤ «8¹¿Í/
+Z	java:S106Y"9Replace this use of System.out or System.err by a logger.(Ä°îûÿÿÿÿ8È¿Í/
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(²ğ€€úÿÿÿÿ8È¿Í/
+l
+java:S2095@"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é«éŒ8è¿Í/
+l
+java:S2095/"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é«éŒ8è¿Í/
+l
+java:S2095\"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(é«éŒ8è¿Í/

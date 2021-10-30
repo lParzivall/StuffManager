@@ -1,0 +1,11 @@
+
+T
+java:S1854"9Remove this useless assignment to local variable "frame".(ÍØÓèùÿÿÿÿ
+E
+java:S1481"*Remove this unused "frame" local variable.(ÍØÓèùÿÿÿÿ
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(œ‘±´8ßİì”Í/
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(Ìí¿Üüÿÿÿÿ8ïİì”Í/
+0
+java:S1220""Move this file to a named package.

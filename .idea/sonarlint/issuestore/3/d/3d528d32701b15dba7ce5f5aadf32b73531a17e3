@@ -1,0 +1,31 @@
+
+J
+java:S3740"/Provide the parametrized type for this generic.(Ç‹›€şÿÿÿÿ
+R
+java:S3740›"/Provide the parametrized type for this generic.(–¬€ùÿÿÿÿ8üïªÍ/
+R
+java:S3740œ"/Provide the parametrized type for this generic.(¤²èÔüÿÿÿÿ8üïªÍ/
+R
+java:S3740œ"/Provide the parametrized type for this generic.(¤²èÔüÿÿÿÿ8üïªÍ/
+m
+java:S1450"WRemove the "ageLabel" field and declare it as a local variable in the relevant methods.(€ËŒÒ
+t
+java:S1450"^Remove the "departmentLabel" field and declare it as a local variable in the relevant methods.(“·÷ñ
+u
+java:S1450"ZRemove the "genderLabel" field and declare it as a local variable in the relevant methods.(¼œ”¹ıÿÿÿÿ
+s
+java:S1450"XRemove the "nameLabel" field and declare it as a local variable in the relevant methods.(ü‡†æüÿÿÿÿ
+t
+java:S1450"YRemove the "phoneLabel" field and declare it as a local variable in the relevant methods.(ÏıÎâøÿÿÿÿ
+r
+java:S1450"\Remove the "positionLabel" field and declare it as a local variable in the relevant methods.(œğÁ
+G
+java:S1948",Make "controller" transient or serializable.(š·Âëüÿÿÿÿ
+{
+java:S1171W"YMove the contents of this initializer to a standard constructor or to field initializers.(ÒÌâ–øÿÿÿÿ8«ğªÍ/
+o	java:S100e"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(–­Œßúÿÿÿÿ8ºğªÍ/
+i	java:S100Ê"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘ ¨úúÿÿÿÿ
+d
+java:S1192´"GDefine a constant instead of duplicating this literal "Female" 3 times.(åº×a8ïƒ“•Í/
+d
+java:S1192®"FDefine a constant instead of duplicating this literal "Other" 3 times.(“ûÄ8ïƒ“•Í/
